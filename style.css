@@ -1,0 +1,42 @@
+.cont1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    margin: 100px;
+    gap: 20px;
+}
+
+.cont2{
+    width: 300px;
+    height: min-content;
+    background-color: wheat;
+    overflow: hidden;
+}
+
+.flag{
+    width: 100%;
+    height: 125px;
+    object-fit: cover;
+}
+
+#secondcont{
+    text-align: center;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+.i2{
+    padding: 30px;
+}
+
+.weatcont{
+    text-align: center;
+}
+
+h4{
+    background-color: aquamarine;
+}
